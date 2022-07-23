@@ -30,12 +30,12 @@ ____
 
 ## 🖱 Desafio de Código I 
 
-|Número |Desafio                                   |Resolução     | Entrega  |
-|------ |---------------------------------------|------------  |---------  |
-| 01    |  Entrada e Saída Lendo e Pulando Nomes |   💻 [Aqui]  |          |
-| 02    |  Médias Ponderadas                     |   💻 [Aqui]  |          |
-| 03    |  Jogadores Viciados                    |   💻 [Aqui]  |          |        
-| 04    | Proibido a entrada de menores!         |   💻 [Aqui]  |          |   
+|Número |Desafio                                   |Resolução                                                                                         | Entrega  |
+|------ |---------------------------------------|-----------------------------------------------------------------------------------------------------|--------- |
+| 01    |  Entrada e Saída Lendo e Pulando Nomes |   💻 [Aqui](https://github.com/CarolGazulha/Bootcamp-Spring-Framework-/blob/master/src/Main.java)  |   ✅    |
+| 02    |  Médias Ponderadas                     |   💻 [Aqui](https://github.com/CarolGazulha/Bootcamp-Spring-Framework-/blob/master/src/Test2.java) |   ✅    |
+| 03    |  Jogadores Viciados                    |   💻 [Aqui](https://github.com/CarolGazulha/Bootcamp-Spring-Framework-/blob/master/src/Test3.java) |   ✅    |        
+| 04    | Proibido a entrada de menores!         |   💻 [Aqui](https://github.com/CarolGazulha/Bootcamp-Spring-Framework-/blob/master/src/Test4.java) |   ✅    |   
 
 
 _______
@@ -51,4 +51,22 @@ _______
 _________
 
 ## 🔍 Referências
+
+
+
+## 🧩 Contribuição
+Este repositório foi criado com intuito de compartilhar meus estudos e o que venho aprendendo.  
+Você pode contribuir com ele...Fique à vontade! 
+
+* Caso encontre algum erro ⚠ vou adorar saber para que possa evoluir
+
+
+ * Se gostou do projeto  
+⭐ no projeto 
+___
+
+![Badge Linkedin](https://img.shields.io/badge/Rede-Linkedin-blue)
+  <details><summary>Linkedin</summary>
+(https://www.linkedin.com/in/caroline-gazulha/)
+  </details>
     
